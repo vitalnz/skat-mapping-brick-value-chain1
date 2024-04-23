@@ -1,0 +1,1 @@
+In this repo, there you will find data related to brick value chain developped by the PROECCO project: modern brick producers, different types of fuel used in brick production and their suppliers, clay valleys confirmed by PROECCO and potential sites for brick factories.
