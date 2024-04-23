@@ -107,6 +107,11 @@
                 <div id="popup-content"></div>
             </div>
         </div>
+        <div id = "scaleline"></div>
+        var scale = new ol.control.ScaleLine({
+    target: document.getElementById("scaleline")
+});
+map.addControl(scale);
         <script src="resources/qgis2web_expressions.js"></script>
         <script src="resources/polyfills.js"></script>
         <script src="./resources/functions.js"></script>
